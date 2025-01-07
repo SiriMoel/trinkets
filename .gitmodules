@@ -1,0 +1,4 @@
+[submodule "lib/Noitilities"]
+	path = Noitilities
+	url = https://github.com/Copious-Modding-Industries/Noitilities.git
+	
